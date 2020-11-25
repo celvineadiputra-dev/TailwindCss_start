@@ -1,2 +1,3 @@
 # TailwindCss_start
-Stop
+Stop this repo ❌
+See tailwindcssv2 ✅
